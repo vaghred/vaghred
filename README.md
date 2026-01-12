@@ -11,6 +11,6 @@ Constantly trying out new technologies.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,c,cpp,py,ts,html,css,react,postman,vscode,mysql,ps,figma,raspberrypi,latex" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,raspberrypi,c,cpp,py,ts,html,css,react,postman,vscode,mysql,ps,figma,latex" />
   </a>
 </p>
